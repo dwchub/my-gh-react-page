@@ -2,7 +2,7 @@
   "name": "my-gh-react-page",
   "version": "0.1.0",
   "private": true,
-  "homepage": "",
+  "homepage": "https://dwchub.github.io/my-gh-react-page/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.12.0",
     "@testing-library/react": "^11.2.6",
